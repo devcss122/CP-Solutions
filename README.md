@@ -29,4 +29,4 @@ Competitive programming is a mind sport usually held over the Internet or a loca
 
 ## Support
 
-Star,Share,Add Your solutions,MAKE PR 
+Star,Share,Add Your solutions,Make PR, Learn
