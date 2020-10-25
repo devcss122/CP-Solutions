@@ -9,6 +9,12 @@
 <img src="https://img.shields.io/badge/language-C++-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-Java-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-SQL-blue?style=for-the-badge">
+ <br>
+ <img src="https://img.shields.io/badge/Prepare%20-ICPC-%23db164b">
+<img src="https://img.shields.io/badge/Learn%20-Competitive%20Programming-%2314c996">
+<img src="https://img.shields.io/badge/Practice%20-Competitive%20Programming-%23c724a1">
+<img src="https://img.shields.io/badge/Learn-Coding-%232919e0">
+ 
  </p>
  
  ## Introduction
