@@ -1,4 +1,8 @@
-<h1 align="center">CP-SOLUTIONS</h1>
+<p align="center">
+ <img src=".github/logo.png">
+ </p>
+
+
 <h2 align="center">👉 A Collection of Solutions to Competitive Programming Problems 👈</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/language-Python-blue?style=for-the-badge">
